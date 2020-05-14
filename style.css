@@ -4,3 +4,13 @@ body {
     background-color: rgb(153, 191, 241);
   }
   
+  h1 {
+    text-align: center;
+    color: thistle;
+
+  }
+
+  h2 {
+    text-align: center;
+    color: yellowgreen;
+  }
